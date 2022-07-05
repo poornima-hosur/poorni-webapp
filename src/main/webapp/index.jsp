@@ -48,7 +48,7 @@
 <div class="bottomcontainer">
     <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
   <a class="footer-link" href="https://facebook.com/">Facebook</a>
-  <p class="owner">© ❤️ kaja sharif J ❤️</p>
+  <p class="owner"> kaja sharif J</p>
 
 </div>
 </body>
