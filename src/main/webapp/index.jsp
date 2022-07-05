@@ -11,15 +11,15 @@
 </head>
 <body>
  <div class="topcontainer">
-     <img class="top-cloud" src="css\images\cloud.png" alt="">
+     <img class="top-cloud" src="cloud.png" alt="">
     <h1>I'm Kaja Sharif</h1>
     <h2>BE Computer Science Engineer</h2>
-    <img class="bottom-cloud" src="css\images\cloud.png" alt="">
-    <img class="img" src="css\images\mountain.png" alt="">
+    <img class="bottom-cloud" src="cloud.png" alt="">
+    <img class="img" src="mountain.png" alt="">
 </div>
 <div class="middlecontainer">
     <div class="profile">
-        <img class="ppp" src="css\images\kaja.png" alt="">
+        <img class="ppp" src="kaja.png" alt="">
         <h2>Hello.</h2>
         <p>I'm a Web Developer and also a java Programmer .</p>
       </div>
@@ -27,12 +27,12 @@
       <div class="skills">
         <h2>My Skills.</h2>
         <div class="skill-row">
-          <img class="desk" src="css\images\desktop.png" alt="">
+          <img class="desk" src="desktop.png" alt="">
           <h3>Design & Development</h3>
           <p> I start learning code whem i was 15 beacause i wanted to make my own website.After that I have gained a knowlege in designing and Developing the Web application. </p>
       </div>
           <div class="skill-row">
-           <img class="tech" src="css\images\technical-support.png" alt="">
+           <img class="tech" src="technical-support.png" alt="">
           <h3>Software Testing & development</h3>
           <p>After completing my BE in computer Science.I have joined in Software training insitute and trained as a selenium Automation tester using java programing language And got knowlege in manual testing also.I have knowlege in Datadriven ,TestNG and Cucumber Frameworks.</p>
          </div>
