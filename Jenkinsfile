@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("git clone"){
             steps{
-                git 'https://github.com/kajamal/maven-webapp.git' 
+                git 'https://github.com/kajendran1/maven-webapp.git' 
                   }
                           }
         stage("build code"){
