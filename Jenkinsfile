@@ -12,6 +12,13 @@ pipeline {
                   }
             
                            }
+         stage('SonarQube analysis') {
+                steps{
+                    withSonarQubeEnv('sonarqube') { 
+                    sh "mvn sonar:sonar -f project/pom.xml"
+                                                   }
+                     }    
+                                      }
          
              }
     
