@@ -25,7 +25,7 @@ pipeline {
          stage('Docker Image') {
              steps {
                 script {
-                  sh 'docker build -t kajendran1451/my-app-1.0 .'
+                  sh 'docker build -t kaj/webpage-lastest .'
                            }
                           }
                 }
