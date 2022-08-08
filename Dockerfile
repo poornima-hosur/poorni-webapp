@@ -1,4 +1,4 @@
 FROM openjdk
-COPY target/*.war /
+COPY target/demos.war /
 EXPOSE 8081
-ENTRYPOINT ["java","-war","/webpage-lastest.war"]
+ENTRYPOINT ["java","-war","/demos.war"]
