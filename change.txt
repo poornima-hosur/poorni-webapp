@@ -4,3 +4,5 @@ change made file
 
 Add one new line
 Add second line
+
+Third line is added as new
